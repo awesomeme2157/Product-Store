@@ -7,6 +7,4 @@
 
 the application will run on port 8000
 
-// ------------------------------------------------
 Website is live at - https://product-store-qmdz.onrender.com  
-// ------------------------------------------------
